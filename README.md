@@ -14,7 +14,6 @@ I am always looking for knowledge to improve my codes aiming at creating project
 ### 🔭&nbsp; Goals for 2021 
 - Learn more about front-end
 - Learn more about back-end
-- Apply for a job.
 - Create a big application with [NodeJS](https://nodejs.org/)
 
 
