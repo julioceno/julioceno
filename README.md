@@ -1,4 +1,4 @@
-### Hello, i'am Júlio :green_heart:
+### Hello, i am Júlio :green_heart:
 
 I am a 16 year old programming lover. I strive for each project to do my best and improve on the stack I chose, I intend to study computer science and evolve more and more. In my spare time I listen to a lot of rap and enjoy playing a little.
 
