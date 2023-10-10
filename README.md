@@ -1,6 +1,6 @@
 ### Hello, i am Júlio :green_heart:
 
-I am a 17 year old programming lover. I strive for each project to do my best and improve on the stack I chose, I intend to study computer science and evolve more and more. In my spare time I listen to a lot of rap and enjoy playing a little.
+I am a 19 year old programming lover. I strive for each project to do my best and improve on the stack I chose, I intend to study computer science and evolve more and more. In my spare time I listen to a lot of rap and enjoy playing a little.
 
 [![Twitter Badge](https://img.shields.io/badge/-@ceno-1eae98?style=flat-square&labelColor=1eae98&logo=twitter&logoColor=white&link=https://twitter.com/julionpmc)](https://twitter.com/Julionpmcn) 
 [![Linkedin Badge](https://img.shields.io/badge/-Júlio%20Nepomuceno-1eae98?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/j%C3%BAlio-nepomuceno-01a034202/) 
